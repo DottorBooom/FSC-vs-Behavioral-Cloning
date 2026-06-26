@@ -109,7 +109,7 @@ This makes it easier to compare policy quality and computational footprint side 
 ## 📝 Acknowledgments
 
 Developed as an academic project on sequential decision-making under partial observability.
-LLMs were used as coding support for boilerplate utilities, plotting helpers, and English text polishing.
+LLMs were used as coding support for plotting helpers, and English text polishing.
 
 # 🔎 Results
 
