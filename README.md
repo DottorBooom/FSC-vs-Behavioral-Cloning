@@ -9,7 +9,7 @@ The goal is to understand the trade-off between **interpretability** and **perfo
 - **Expert policy**: Recurrent PPO (LSTM-based) used to generate demonstrations.
 - **Compared models**:
 	- FSC trained with trajectory likelihood optimization.
-	- LSTM policy trained with supervised Behavioral Cloning.
+	- LSTM trained with supervised Behavioral Cloning over the same trajectories.
 - **Maze scales**: 3x3, 6x6, 9x9.
 - **Evaluation focus**: success rate, average reward, average steps, inference cost, robustness, and interpretability.
 
